@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AvishekDas5](https://github.com/AvishekDas5)
 
-- 📫 How to reach me **annodomini50@gmail.com**
+- 📫 How to reach me **avishek.das7384@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
