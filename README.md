@@ -60,8 +60,7 @@
 </p>
 
 ---
-<details>
-  <summary>📊 GitHub Stats</summary>
+
   
 ![3D Profile Green](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -69,7 +68,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvishekDas5&theme=highcontrast" alt="GitHub Streak" />
 </p>
-</details>
+
 
 ---
 
