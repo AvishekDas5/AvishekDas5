@@ -62,10 +62,8 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishekDas5&theme=highcontrast&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekDas5&theme=highcontrast&layout=compact" alt="Top Languages" />
-</p>
+![3D Profile Green](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AvishekDas5&theme=highcontrast" alt="GitHub Streak" />
